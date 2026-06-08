@@ -29,10 +29,12 @@ Analysis of sales trends across different periods.
 Understanding customer purchasing patterns.
 Detection of high-revenue regions and market opportunities.
 Recommendations to improve sales performance and business growth.
+
 Tools & Technologies
 Excel – Data cleaning and preparation
 Python – Data analysis and exploration
 Power BI – Dashboard creation and data visualization
+
 Outcome
 
 The project demonstrates an end-to-end data analytics workflow, from data cleaning and analysis to visualization and business insight generation, helping stakeholders make data-driven decisions.
